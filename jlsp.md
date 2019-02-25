@@ -1,1 +1,1 @@
-https://www.jlsp.live:8441/jlsp
+http://www.jlsp.live:9527/jlsp
